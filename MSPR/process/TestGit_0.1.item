@@ -93,15 +93,15 @@
     <elementParameter field="TEXT" name="FOOTER_LIBRARY" value="" show="false"/>
     <elementParameter field="TEXT" name="FOOTER_CODE" value="" show="false"/>
     <elementParameter field="TEXT" name="FOOTER_IMPORT" value="" show="false"/>
-    <routinesParameter id="__uShAOntEey1s9CHJ3vGPw" name="DataOperation"/>
-    <routinesParameter id="__vO8MOntEey1s9CHJ3vGPw" name="Mathematical"/>
-    <routinesParameter id="__vsPMOntEey1s9CHJ3vGPw" name="Numeric"/>
-    <routinesParameter id="__v98AOntEey1s9CHJ3vGPw" name="Relational"/>
-    <routinesParameter id="__wLXYOntEey1s9CHJ3vGPw" name="StringHandling"/>
-    <routinesParameter id="__wb2EOntEey1s9CHJ3vGPw" name="TalendDataGenerator"/>
-    <routinesParameter id="__wp4gOntEey1s9CHJ3vGPw" name="TalendDate"/>
-    <routinesParameter id="__w3T4OntEey1s9CHJ3vGPw" name="TalendString"/>
-    <routinesParameter id="__xEvQOntEey1s9CHJ3vGPw" name="TalendStringUtil"/>
+    <routinesParameter id="_ziNwAOqNEeyKbs2zHUMUoQ" name="DataOperation"/>
+    <routinesParameter id="_zjF5wOqNEeyKbs2zHUMUoQ" name="Mathematical"/>
+    <routinesParameter id="_zjN1kOqNEeyKbs2zHUMUoQ" name="Numeric"/>
+    <routinesParameter id="_zjSHAOqNEeyKbs2zHUMUoQ" name="Relational"/>
+    <routinesParameter id="_zjXmkOqNEeyKbs2zHUMUoQ" name="StringHandling"/>
+    <routinesParameter id="_zjap4OqNEeyKbs2zHUMUoQ" name="TalendDataGenerator"/>
+    <routinesParameter id="_zje7UOqNEeyKbs2zHUMUoQ" name="TalendDate"/>
+    <routinesParameter id="_zjneMOqNEeyKbs2zHUMUoQ" name="TalendStringUtil"/>
+    <routinesParameter id="_zjjMwOqNEeyKbs2zHUMUoQ" name="TalendString"/>
   </parameters>
   <node componentName="tMsgBox" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="544" posY="256">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tMsgBox_1" show="false"/>
