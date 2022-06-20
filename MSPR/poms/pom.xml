@@ -12,6 +12,9 @@
     <module>code/routines</module>
     <module>jobs/process/testgit_0.1</module>
     <module>jobs/process/monjob_0.1</module>
+    <module>jobs/process/MSPR/nbplacestotalpmr__mtp_placesreserv_0.1</module>
+    <module>jobs/process/MSPR/BNLS/bnls_0.1</module>
+    <module>jobs/process/MSPR/LOAD/loadbnls_0.1</module>
   </modules>
   <properties>
     <talend.project.name>MSPR</talend.project.name>
